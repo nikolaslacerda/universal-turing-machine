@@ -12,8 +12,8 @@ x = entrada
 - Trás esse simbolo até uma casa antes do primeiro *
 - Volta para o primeiro $
 
-Começa: No primeiro $
-Termina: No primeiro $
+##### Começa: No primeiro $
+##### Termina: No primeiro $
 
 ## 2: Find
 
@@ -31,8 +31,8 @@ Termina: No primeiro $
   - Volta até o primeiro $
   - Recomeça
   
-Começa: No primeiro $
-Termina: No primeiro simbolo depois de letras
+##### Começa: No primeiro $
+##### Termina: No primeiro simbolo depois de letras
 
 ## 3: Fetch
 
@@ -43,8 +43,8 @@ Termina: No primeiro simbolo depois de letras
 - Se só tem simbolos não letras até o primeiro * termina
 - Se não recomeça
 
-Começa: No primeiro simbolo depois de letras (nas transições)
-Termina: No primeiro *
+##### Começa: No primeiro simbolo depois de letras (nas transições)
+##### Termina: No primeiro *
 
 ## 4: Execute
 
@@ -54,8 +54,8 @@ Termina: No primeiro *
 - Escreve o simbolo
 - Volta até o primeiro $
 
-Começa: No primeiro *
-Termina: No primeiro $
+##### Começa: No primeiro *
+##### Termina: No primeiro $
 
 ## 5: Movehead
 
@@ -65,12 +65,12 @@ Termina: No primeiro $
 - Lê o simbolo do lado referente ao numero
 - Troca o simbolo com o ^
 
-Começa: No primeiro $
-Termina: A direita do segundo $
+##### Começa: No primeiro $
+##### Termina: A direita do segundo $
 
 ## 6: Count
 
 - Vai até o primeiro $ trocando as letras por seus respectivos simbolos
 
-Começa: A direita do segundo $
-Termina: No primeiro $
+##### Começa: A direita do segundo $
+##### Termina: No primeiro $
