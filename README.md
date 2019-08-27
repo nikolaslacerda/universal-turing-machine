@@ -3,7 +3,7 @@ A universal turing machine in JFLAP
 
 $0^k+1 * <M> $ ^ x
   
-<M> = 0001011 onde 00(estado)0(lê)10(próximo estado)1(escreve)1(direita)
+<M> = 0001011 onde 00(estado) 0(lê) 10(próximo estado) 1(escreve) 1(direita (1), esquerda(0))
 x = entrada
 
 ## 1: Get
