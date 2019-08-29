@@ -5,6 +5,10 @@ $0^k+1 * <M> $ ^ x
   
 <M> = 0001011 onde 00(estado) 0(lê) 10(próximo estado) 1(escreve) 1(direita (1), esquerda(0))
 x = entrada
+  
+0 <-> Z
+1 <-> U
+B <-> W
 
 ## 1: Get
 
