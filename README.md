@@ -7,7 +7,9 @@ $0^k+1 * <M> $ ^ x
 x = entrada
   
 0 <-> Z
+
 1 <-> U
+
 B <-> W
 
 ## 1: Get
