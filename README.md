@@ -21,7 +21,7 @@ B <-> W
 ##### Começa: No primeiro $
 ##### Termina: No primeiro $
 
-## 2: Find
+## 2: Find :x:
 
 - Se só tem letras até o primeiro *
   - Vai até o primeiro número
@@ -63,7 +63,7 @@ B <-> W
 ##### Começa: No primeiro *
 ##### Termina: No primeiro $
 
-## 5: Movehead
+## 5: Movehead :x:
 
 - Vai até o primeiro 0 ou 1
 - Pega o numero
@@ -74,7 +74,7 @@ B <-> W
 ##### Começa: No primeiro $
 ##### Termina: A direita do segundo $
 
-## 6: Count
+## 6: Count :x:
 
 - Vai até o primeiro $ trocando as letras por seus respectivos simbolos
 
