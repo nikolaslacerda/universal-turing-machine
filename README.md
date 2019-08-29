@@ -12,7 +12,7 @@ x = entrada
 
 B <-> W
 
-## 1: Get
+## 1: Get :heavy_check_mark:
 
 - Vai até o ^ e pega o simbolo a direita
 - Trás esse simbolo até uma casa antes do primeiro *
@@ -40,7 +40,7 @@ B <-> W
 ##### Começa: No primeiro $
 ##### Termina: No primeiro simbolo depois de letras
 
-## 3: Fetch
+## 3: Fetch :heavy_check_mark:
 
 - Pega o simbolo e substitui ele por letra
 - Vai até o primeiro $
@@ -52,7 +52,7 @@ B <-> W
 ##### Começa: No primeiro simbolo depois de letras (nas transições)
 ##### Termina: No primeiro *
 
-## 4: Execute
+## 4: Execute :heavy_check_mark:
 
 - Volta uma casa
 - Pega o simbolo
