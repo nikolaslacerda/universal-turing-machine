@@ -21,7 +21,7 @@ B <-> W
 ##### Começa: No primeiro $
 ##### Termina: No primeiro $
 
-## 2: Find :x:
+## 2: Find :heavy_check_mark:
 
 - Se só tem letras até o primeiro *
   - Vai até o primeiro número
