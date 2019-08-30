@@ -63,7 +63,7 @@ B <-> W
 ##### Começa: No primeiro *
 ##### Termina: No primeiro $
 
-## 5: Movehead :x:
+## 5: Movehead :heavy_check_mark:
 
 - Vai até o primeiro 0 ou 1
 - Pega o numero
@@ -74,7 +74,7 @@ B <-> W
 ##### Começa: No primeiro $
 ##### Termina: A direita do segundo $
 
-## 6: Count :x:
+## 6: Count :heavy_check_mark:
 
 - Vai até o primeiro $ trocando as letras por seus respectivos simbolos
 
