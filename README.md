@@ -74,7 +74,7 @@ B <-> W
 ##### Começa: No primeiro $
 ##### Termina: A direita do segundo $
 
-## 6: Count :heavy_check_mark:
+## 6: Clean :heavy_check_mark:
 
 - Vai até o primeiro $ trocando as letras por seus respectivos simbolos
 
